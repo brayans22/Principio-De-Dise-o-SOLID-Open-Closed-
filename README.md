@@ -1,1 +1,1 @@
-# Principio-De-Dise-o-SOLID-Open-Closed-
+# Principio Open-Closed (SOLID)
